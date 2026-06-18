@@ -1,0 +1,4 @@
+---- EMPLOYEE PAYROLL REPORT ----
+Name: Anil Dhungana | Pay: $5000.0
+Name: Surat Bista | Pay: $1800.0
+Name: Saurav Shah | Pay: $6200.0
